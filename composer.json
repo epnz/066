@@ -2,6 +2,6 @@
     "name": "io/fe",
     "description": "This is a collection of front-end tools",
     "type":"library",
-    "keywords": [ "jquery", "nprogress", "css", "javascript" ],
+    "keywords": [ "bootstrap", "font awesome", "icheck", "jquery", "nprogress", "css", "javascript" ],
     "license": "MIT"
 }
