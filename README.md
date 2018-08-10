@@ -7,3 +7,4 @@ Purpose: Do not modify the source code, Small, Widely
 *   [iCheck](https://github.com/fronteed/icheck) Version `1.0.2`
 *   [jQuery](https://jquery.com/) Default version `3.3.1` Other version `1.12.4` `2.2.4`
 *   [NProgress.js](http://ricostacruz.com/nprogress/) Version `0.2.0`
+*   [Select2](https://select2.org/) Version `4.0.5`
