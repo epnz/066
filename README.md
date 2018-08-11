@@ -5,6 +5,7 @@ Purpose: Do not modify the source code, Small, Widely
 
 ## Tool collection / 工具列表
 *   [Bootstrap](https://getbootstrap.com/) Version `3.3.7` `4.1.3`
+*   [CKEditor](https://ckeditor.com/) Version `4.10.0_standard_easyimage`
 *   [Font Awesome](https://fontawesome.com/) Version `4.7.0`
 *   [iCheck](https://github.com/fronteed/icheck) Version `1.0.2`
 *   [jQuery](https://jquery.com/) Default version `3.3.1` Other version `1.12.4` `2.2.4`
