@@ -2,6 +2,13 @@
     "name": "io/fe",
     "description": "This is a collection of front-end tools",
     "type":"library",
-    "keywords": [ "bootstrap", "font awesome", "icheck", "jquery", "nprogress", "css", "javascript" ],
-    "license": "MIT"
+    "homepage": "http://066.io/",
+    "keywords": [ "bootstrap", "font awesome", "icheck", "jquery", "less", "nprogress", "css", "javascript" ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GXQ",
+            "homepage": "http://066.io"
+        }
+    ]
 }
