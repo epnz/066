@@ -1,7 +1,7 @@
 # Front-end tool collection / 前端工具集
 
 Purpose: Do not modify the source code, Small, Widely
-宗旨：原滋原味，尽量轻巧，包罗万象
+原滋原味，尽量轻巧，包罗万象
 
 ## Tool collection / 工具列表
 *   [Bootstrap](https://getbootstrap.com/) Version `3.3.7` `4.1.3`
